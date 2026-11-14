@@ -3,9 +3,6 @@ from pathlib import Path
 import csv
 from datetime import datetime
 
-# =====================================
-# 1. CREATE UNIVERSITY DIRECTORY
-# =====================================
 
 base_dir = Path.cwd() / "pathlib_practise"
 
